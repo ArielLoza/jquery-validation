@@ -1,4 +1,4 @@
-[jQuery Validation Plugin](https://jqueryvalidation.org/) - Form validation made easy
+[jQuery Validation Plugin](https://jqueryvalidation.org/) - Validacion de Formularios Fácil
 ================================
 
 [![release](https://img.shields.io/github/release/jquery-validation/jquery-validation.svg)](https://github.com/jquery-validation/jquery-validation/releases/latest)
